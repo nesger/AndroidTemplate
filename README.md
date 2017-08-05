@@ -19,4 +19,4 @@ For more details you can find answer in [official web](https://developer.android
 2. Clone to your local machine. [Optional]
 3. Change the project name and package name for your project.
 
-If you use another libs, you need add rules in proguard-rules.pro file.
+If you use another libs, you need to add rules in proguard-rules.pro file.
